@@ -11,3 +11,5 @@ http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=7029829&wmsAut
 http://tv.ebox.live:8081/thunderbd/6/chunks.m3u8?nimblesessionid=7030309&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MTc6MjggUE0maGFzaF92YWx1ZT1pUUhGMWVDdWtPekpXVUExUkNkdnRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:6,news24
 http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=7031056&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MjA6MzYgUE0maGFzaF92YWx1ZT1IL2tZSEFUbmRMVXY2blQzdFpLN0NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:7, Star-Sports1
+http://tv.ebox.live:8081/thunderbd/25/chunks.m3u8?nimblesessionid=7039365&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDU6MDI6MzcgUE0maGFzaF92YWx1ZT1pWjNBM0NTYVpoL0tYS2lIRXg4dlBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
