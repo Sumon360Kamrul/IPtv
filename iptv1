@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1,TSports
+#EXTINF:1,Gazi Tv
 http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=7027549&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDM6Mzc6NTAgUE0maGFzaF92YWx1ZT1mZHgzTEJ6TzB1VHB1cHJwZ0Nyck13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:2,Jamuna Tv
 http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=7029091&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MTE6MTggUE0maGFzaF92YWx1ZT1uQ0tOQjVqcDFaeXZ6eVNSZzJZOC9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
