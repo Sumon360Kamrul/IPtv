@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:1,Gazi Tv
 http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=7027549&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDM6Mzc6NTAgUE0maGFzaF92YWx1ZT1mZHgzTEJ6TzB1VHB1cHJwZ0Nyck13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:2,Jamuna Tv
+#EXTINF:2,TSPorts
+http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=7037274&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6NTE6MDEgUE0maGFzaF92YWx1ZT1FY2JyYjRKYXkyYVpieU81dmdlOEVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:3,Jamuna Tv
 http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=7029091&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MTE6MTggUE0maGFzaF92YWx1ZT1uQ0tOQjVqcDFaeXZ6eVNSZzJZOC9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:3,Somoy tv
+#EXTINF:4,Somoy tv
 http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=7029829&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MTU6MDYgUE0maGFzaF92YWx1ZT1ydVltRndMclRPZzdFMHBZdmNKTVF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:4,Channel I
+#EXTINF:5,Channel I
 http://tv.ebox.live:8081/thunderbd/6/chunks.m3u8?nimblesessionid=7030309&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MTc6MjggUE0maGFzaF92YWx1ZT1pUUhGMWVDdWtPekpXVUExUkNkdnRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:5,news24
+#EXTINF:6,news24
 http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=7031056&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIxIDQ6MjA6MzYgUE0maGFzaF92YWx1ZT1IL2tZSEFUbmRMVXY2blQzdFpLN0NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
